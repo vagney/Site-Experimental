@@ -1,2 +1,3 @@
 # Site-Experimental
- Primeiro site criado para para avaliar os conhecimentos do curso html5 Udemy
+ Primeiro site criado para avaliar os conhecimentos
+ adquiridos com o curso html 5 da Udemy !!
